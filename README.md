@@ -64,7 +64,8 @@ It’s statistically much easier to get a user to visit your site than to try yo
 
 * ComScore recently published concrete numbers about this, citing how the top 1000 mobile web sites have on average 2.5X more monthly active users than the top 1000 native apps.
 
-* ![image alt text](image_0.png)
+* ![image](https://cloud.githubusercontent.com/assets/170145/14200140/2b4ab23c-f7e9-11e5-87ce-5d48200fa1ff.png)
+
 
 Having a strong web presence allows you to reach more people than native alone
 
